@@ -4,7 +4,7 @@ A port of the [JetBrains Trash Panda Theme](https://github.com/jasonhulbert/jetb
 
 A theme for raccoons and other creatures of the night.
 
-![Preview](./preview.svg)
+![Preview](./assets/screenshot.png)
 
 ## Variants
 
